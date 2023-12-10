@@ -1,4 +1,4 @@
-namespace asp_identity_web.Models;
+namespace Identity_Web.Models;
 
 public class ErrorViewModel
 {

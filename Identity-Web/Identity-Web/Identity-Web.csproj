@@ -4,7 +4,7 @@
         <TargetFramework>net7.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
-        <RootNamespace>asp_identity_web</RootNamespace>
+        <RootNamespace>Identity_Web</RootNamespace>
     </PropertyGroup>
 
 </Project>
